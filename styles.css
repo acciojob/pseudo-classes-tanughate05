@@ -10,11 +10,15 @@ body{
 	color:red;
 }
 .first-list{
+	padding:5px;
 	background-color:white;
 }
 .second-list{
-	background-color:stalegray;
+	padding:5px;
+	background-color:
 }
 .third-list{
+	padding:5px;
+	margin:2px;
 	background-color:pink;
 }
